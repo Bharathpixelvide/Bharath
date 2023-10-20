@@ -448,4 +448,9 @@
     color: black;
     cursor: pointer;
  } 
+.final {
+    justify-content: space-around;
+    color:grey ;
+    margin-left: 200px;
+} 
 
